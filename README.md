@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @princegupta0106 
-- 👀 I’m interested in leetcodes
 - 🌱 I’m currently learning python , web dev , c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me f20230158@pilani.bits-pilani.ac.in
