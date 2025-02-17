@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @princegupta0106 
-- 🌱 I’m currently learning python , web dev , c++
+- 🌱 I’m currently learning python , react , c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me f20230158@pilani.bits-pilani.ac.in
 
